@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <fragment
+        android:id="@+id/audio_frag0"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag1"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag11"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag12"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag13"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag14"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag124"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <fragment
+        android:id="@+id/audio_frag114"
+        android:name="com.helios.project2.frag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
